@@ -1,2 +1,13 @@
 # MyRepoForEducate
-blaablablablaablablablaablablablaablablablaablablablaablablablaablablablaablabla
+
+Небольшой учебный репозиторий для экспериментов с C#.
+
+## Структура
+- `homeworks/` — домашние работы.
+- `practices/` — практики.
+- `projects/` — проекты.
+
+## Быстрый старт
+1. Установите .NET SDK последней версии.
+2. Выполните `dotnet restore` и `dotnet build`.
+3. Запускайте примеры командой `dotnet run`.
