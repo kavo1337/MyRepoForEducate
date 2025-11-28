@@ -1,0 +1,7 @@
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\bin\Debug\Consolka.exe.config
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\bin\Debug\Consolka.exe
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\bin\Debug\Consolka.pdb
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\obj\Debug\Consolka.csproj.AssemblyReference.cache
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\obj\Debug\Consolka.csproj.CoreCompileInputs.cache
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\obj\Debug\Consolka.exe
+C:\Users\clost\OneDrive\Документы\C#\Consolka\Consolka\obj\Debug\Consolka.pdb
