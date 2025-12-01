@@ -1,0 +1,7 @@
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\bin\Debug\HomeWork.exe.config
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\bin\Debug\HomeWork.exe
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\bin\Debug\HomeWork.pdb
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\obj\Debug\HomeWork.csproj.AssemblyReference.cache
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\obj\Debug\HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\obj\Debug\HomeWork.exe
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\homeworks\home-2\HomeWork\obj\Debug\HomeWork.pdb
