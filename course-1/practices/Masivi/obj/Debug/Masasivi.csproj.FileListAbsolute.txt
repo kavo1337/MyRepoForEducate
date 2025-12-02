@@ -1,0 +1,7 @@
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\bin\Debug\Masasivi.exe.config
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\bin\Debug\Masasivi.exe
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\bin\Debug\Masasivi.pdb
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\obj\Debug\Masasivi.csproj.AssemblyReference.cache
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\obj\Debug\Masasivi.csproj.CoreCompileInputs.cache
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\obj\Debug\Masasivi.exe
+C:\Users\clost\OneDrive\Документы\C#\MyRepoForEducate\course-1\practices\Masasivi\obj\Debug\Masasivi.pdb

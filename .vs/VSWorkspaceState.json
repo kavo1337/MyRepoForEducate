@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\course-1",
-    "\\course-1\\homeworks",
-    "\\course-1\\homeworks\\home-2",
-    "\\course-1\\homeworks\\home-2\\HomeWork"
+    "\\course-1\\practices"
   ],
+  "SelectedNode": "\\course-1\\practices",
   "PreviewInSolutionExplorer": false
 }
