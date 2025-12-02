@@ -12,17 +12,17 @@ namespace HomeWork
         {
 
             //1 задание
-            //int a = Convert.ToInt32(Console.ReadLine());
+            //double a = Convert.ToDouble(Console.ReadLine());
             //Console.WriteLine("Convert: " + (a * 9 / 5 + 32));
 
             //2 задание
-            //int a = Convert.ToInt32(Console.ReadLine());int b = Convert.ToInt32(Console.ReadLine());int c = Convert.ToInt32(Console.ReadLine());
+            //double a = Convert.ToDouble(Console.ReadLine()); double b = Convert.ToDouble(Console.ReadLine()); double c = Convert.ToDouble(Console.ReadLine());
             //Console.WriteLine("Total: " + ((a + b + c) / 3));
 
 
             //3 задание
-            //int a = Convert.ToInt32(Console.ReadLine());
-            //int b = Convert.ToInt32(Console.ReadLine());
+            //double a = Convert.ToDouble(Console.ReadLine());
+            //double b = Convert.ToDouble(Console.ReadLine());
 
             //Console.WriteLine("Сумма: " + (a + b));
             //Console.WriteLine("Разность: " + (a - b));
